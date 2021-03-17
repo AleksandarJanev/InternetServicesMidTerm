@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\midTerm.Services\bin\Debug\netcoreapp3.1\midTerm.Services.deps.json
+C:\Users\User\source\repos\midTerm.Services\bin\Debug\netcoreapp3.1\midTerm.Services.dll
+C:\Users\User\source\repos\midTerm.Services\bin\Debug\netcoreapp3.1\midTerm.Services.pdb
+C:\Users\User\source\repos\midTerm.Services\bin\Debug\netcoreapp3.1\midTerm.Data.dll
+C:\Users\User\source\repos\midTerm.Services\bin\Debug\netcoreapp3.1\midTerm.Models.dll
+C:\Users\User\source\repos\midTerm.Services\bin\Debug\netcoreapp3.1\midTerm.Models.pdb
+C:\Users\User\source\repos\midTerm.Services\bin\Debug\netcoreapp3.1\midTerm.Data.pdb
+C:\Users\User\source\repos\midTerm.Services\obj\Debug\netcoreapp3.1\midTerm.Services.csprojAssemblyReference.cache
+C:\Users\User\source\repos\midTerm.Services\obj\Debug\netcoreapp3.1\midTerm.Services.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\midTerm.Services\obj\Debug\netcoreapp3.1\midTerm.Services.AssemblyInfo.cs
+C:\Users\User\source\repos\midTerm.Services\obj\Debug\netcoreapp3.1\midTerm.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\midTerm.Services\obj\Debug\netcoreapp3.1\midTerm.Services.csproj.CopyComplete
+C:\Users\User\source\repos\midTerm.Services\obj\Debug\netcoreapp3.1\midTerm.Services.dll
+C:\Users\User\source\repos\midTerm.Services\obj\Debug\netcoreapp3.1\midTerm.Services.pdb

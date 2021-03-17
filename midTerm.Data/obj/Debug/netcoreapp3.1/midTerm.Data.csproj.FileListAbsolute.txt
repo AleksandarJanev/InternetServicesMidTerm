@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\midTerm.Data\bin\Debug\netcoreapp3.1\midTerm.Data.deps.json
+C:\Users\User\source\repos\midTerm.Data\bin\Debug\netcoreapp3.1\midTerm.Data.runtimeconfig.json
+C:\Users\User\source\repos\midTerm.Data\bin\Debug\netcoreapp3.1\midTerm.Data.runtimeconfig.dev.json
+C:\Users\User\source\repos\midTerm.Data\bin\Debug\netcoreapp3.1\midTerm.Data.dll
+C:\Users\User\source\repos\midTerm.Data\bin\Debug\netcoreapp3.1\midTerm.Data.pdb
+C:\Users\User\source\repos\midTerm.Data\obj\Debug\netcoreapp3.1\midTerm.Data.csprojAssemblyReference.cache
+C:\Users\User\source\repos\midTerm.Data\obj\Debug\netcoreapp3.1\midTerm.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\midTerm.Data\obj\Debug\netcoreapp3.1\midTerm.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\midTerm.Data\obj\Debug\netcoreapp3.1\midTerm.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\midTerm.Data\obj\Debug\netcoreapp3.1\midTerm.Data.dll
+C:\Users\User\source\repos\midTerm.Data\obj\Debug\netcoreapp3.1\midTerm.Data.pdb
+C:\Users\User\source\repos\midTerm.Data\obj\Debug\netcoreapp3.1\midTerm.Data.genruntimeconfig.cache
